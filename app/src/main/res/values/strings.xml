@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WebAlc</string>
+    <string name="ETH">ETH</string>
+    <string name="BTC">BTC</string>
+
+    <string-array name="countries_array">
+        <item>NGN</item>
+        <item>AFN</item>
+        <item>USD</item>
+        <item>GHS</item>
+        <item>XAF</item>
+        <item>EUR</item>
+        <item>GEL</item>
+        <item>GNF</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KES</item>
+        <item>LAK</item>
+        <item>MYR</item>
+        <item>MXN</item>
+        <item>PEN</item>
+        <item>PHP</item>
+        <item>ZAR</item>
+        <item>XOF</item>
+        <item>TRY</item>
+        <item>TND</item>
+    </string-array>
+</resources>
